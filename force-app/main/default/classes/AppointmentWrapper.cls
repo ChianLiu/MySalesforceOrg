@@ -13,5 +13,6 @@ public with sharing class AppointmentWrapper {
         this.startTime = String.valueOf(startTime);
         this.endTime = String.valueOf(endTime);
         this.recordId = recordId;
+        //老子不想上班
     }
 }
